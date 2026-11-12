@@ -1,0 +1,4 @@
+title,amount,type,category,description,date,paymentMethod
+Uber ride to office,250,expense,,Uber ride to office,2026-11-08,upi
+Dinner at restaurant,600,expense,Entertainment,Dinner at restaurant,2026-11-08,upi
+Monthly salary,50000,income,,Monthly salary payment,2026-11-08,bank_transfer

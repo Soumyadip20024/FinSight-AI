@@ -1,0 +1,281 @@
+description,category
+Restaurant lunch,Food
+Dinner at restaurant,Food
+Pizza delivery order,Food
+Coffee and snacks,Food
+Breakfast at cafe,Food
+Swiggy food order,Food
+Zomato dinner order,Food
+Chicken biryani purchase,Food
+Street food payment,Food
+Cafe coffee payment,Food
+Lunch at office canteen,Food
+Burger and fries order,Food
+Food delivery payment,Food
+Evening tea and snacks,Food
+Restaurant family dinner,Food
+Sandwich purchase,Food
+Ice cream shop payment,Food
+Bakery cake purchase,Food
+Online food order payment,Food
+Breakfast dosa payment,Food
+Grocery shopping,Groceries
+Bought vegetables and fruits,Groceries
+Supermarket monthly shopping,Groceries
+Purchased rice and cooking oil,Groceries
+Bought milk and bread,Groceries
+BigBasket grocery order,Groceries
+Blinkit grocery delivery,Groceries
+Zepto daily essentials,Groceries
+DMart supermarket purchase,Groceries
+Local vegetable market purchase,Groceries
+Monthly grocery bill,Groceries
+Purchased household groceries,Groceries
+Grocery store UPI payment,Groceries
+Bought eggs and dairy products,Groceries
+Purchased cooking spices,Groceries
+Kirana store payment,Groceries
+Online grocery checkout,Groceries
+Fresh fruits purchase,Groceries
+Supermarket checkout payment,Groceries
+Daily household essentials,Groceries
+Uber ride to office,Transportation
+Ola cab fare,Transportation
+Bus ticket payment,Transportation
+Metro train recharge,Transportation
+Petrol for motorcycle,Transportation
+Rapido bike ride,Transportation
+Auto rickshaw fare,Transportation
+Train ticket payment,Transportation
+Fuel station UPI payment,Transportation
+Airport taxi fare,Transportation
+Daily office commute,Transportation
+Car parking charges,Transportation
+Highway toll payment,Transportation
+Scooter petrol refill,Transportation
+Local bus pass recharge,Transportation
+Cab booking payment,Transportation
+Vehicle servicing expense,Transportation
+Bike repair payment,Transportation
+Railway reservation fare,Transportation
+Public transport ticket,Transportation
+Electricity bill payment,Utilities
+Monthly water bill,Utilities
+Internet broadband bill,Utilities
+Gas cylinder payment,Utilities
+Mobile phone recharge,Utilities
+Electricity board online payment,Utilities
+WiFi monthly bill,Utilities
+DTH recharge payment,Utilities
+Household gas bill,Utilities
+Water supply charges,Utilities
+Electricity meter recharge,Utilities
+JioFiber internet bill,Utilities
+Airtel broadband payment,Utilities
+Monthly mobile postpaid bill,Utilities
+Cooking gas refill,Utilities
+Telecom service recharge,Utilities
+Internet service renewal,Utilities
+Power bill UPI transaction,Utilities
+Cable television payment,Utilities
+Utility service charges,Utilities
+Doctor consultation fee,Healthcare
+Medical prescription purchase,Healthcare
+Hospital checkup payment,Healthcare
+Dental treatment expense,Healthcare
+Pharmacy medicine bill,Healthcare
+Apollo pharmacy purchase,Healthcare
+Clinic consultation charges,Healthcare
+Blood test laboratory payment,Healthcare
+Medical scan charges,Healthcare
+Health checkup package,Healthcare
+Purchased prescribed medicines,Healthcare
+Hospital admission bill,Healthcare
+Eye examination fee,Healthcare
+Diagnostic center payment,Healthcare
+Medical equipment purchase,Healthcare
+Physiotherapy session payment,Healthcare
+Vaccination appointment fee,Healthcare
+Medical store UPI payment,Healthcare
+Doctor appointment charges,Healthcare
+Healthcare treatment expense,Healthcare
+College tuition fee,Education
+Online programming course,Education
+Purchased textbooks,Education
+Exam registration fee,Education
+Online learning subscription,Subscriptions
+Udemy course enrollment,Education
+Coursera course payment,Education
+College semester fees,Education
+University examination charges,Education
+Bought academic reference books,Education
+Coding bootcamp payment,Education
+Educational workshop registration,Education
+Online certification fee,Education
+School tuition payment,Education
+Laboratory course materials,Education
+Technical training program,Education
+Programming tutorial subscription,Subscriptions
+Library membership fee,Education
+Academic coaching charges,Education
+Student course registration,Education
+Movie ticket booking,Entertainment
+Concert ticket purchase,Entertainment
+Gaming subscription payment,Subscriptions
+Amusement park entry,Entertainment
+Music streaming subscription,Subscriptions
+Cinema hall ticket purchase,Entertainment
+PVR movie booking,Entertainment
+Bowling game payment,Entertainment
+Gaming platform purchase,Entertainment
+Sports event ticket,Entertainment
+Theme park entry fee,Entertainment
+Live music event booking,Entertainment
+Comedy show ticket,Entertainment
+Online game purchase,Entertainment
+Movie streaming rental,Entertainment
+Arcade gaming charges,Entertainment
+Museum admission ticket,Entertainment
+Entertainment event payment,Entertainment
+Theatre performance ticket,Entertainment
+Weekend recreation expense,Entertainment
+Purchased new clothes,Shopping
+Online electronics purchase,Shopping
+Bought shoes online,Shopping
+Shopping mall purchase,Shopping
+Purchased a wrist watch,Shopping
+Amazon shopping order,Shopping
+Flipkart product purchase,Shopping
+Myntra clothing order,Shopping
+Purchased headphones,Shopping
+New smartphone purchase,Shopping
+Fashion accessories payment,Shopping
+Home decor shopping,Shopping
+Online clothing checkout,Shopping
+Purchased laptop accessories,Shopping
+Retail store UPI payment,Shopping
+Furniture shopping expense,Shopping
+Bought a new backpack,Shopping
+Cosmetics shopping order,Shopping
+Department store purchase,Shopping
+Electronics store payment,Shopping
+Monthly apartment rent,Rent
+House rent payment,Rent
+Flat rental payment,Rent
+Monthly room rent,Rent
+Apartment lease payment,Rent
+Residential property rent,Rent
+Hostel accommodation rent,Rent
+Landlord monthly payment,Rent
+Rental apartment charges,Rent
+Paying house rent online,Rent
+PG accommodation payment,Rent
+Monthly flat rent transfer,Rent
+Room rental charges,Rent
+Home rental installment,Rent
+Apartment occupancy payment,Rent
+Housing rent UPI transfer,Rent
+Monthly tenant rent,Rent
+Residential lease charges,Rent
+House rental expense,Rent
+Property rent transfer,Rent
+Flight ticket booking,Travel
+Hotel reservation payment,Travel
+Train ticket for vacation,Travel
+Holiday resort booking,Travel
+Tour package payment,Travel
+MakeMyTrip flight booking,Travel
+Goibibo hotel reservation,Travel
+Vacation travel expenses,Travel
+International flight payment,Travel
+Holiday accommodation charges,Travel
+Travel agency booking,Travel
+Tourist destination entry,Travel
+Airport lounge payment,Travel
+Travel package installment,Travel
+Cruise ticket booking,Travel
+Travel accommodation payment,Travel
+Vacation cab booking,Travel
+Domestic airline ticket,Travel
+Trip hotel checkout,Travel
+Holiday transportation booking,Travel
+Health insurance premium,Insurance
+Car insurance renewal,Insurance
+Life insurance payment,Insurance
+Vehicle insurance premium,Insurance
+Insurance policy installment,Insurance
+LIC premium payment,Insurance
+Medical insurance renewal,Insurance
+Term insurance installment,Insurance
+Two wheeler insurance payment,Insurance
+Home insurance charges,Insurance
+Policy premium transfer,Insurance
+Insurance company payment,Insurance
+Annual health cover renewal,Insurance
+Motor insurance bill,Insurance
+Insurance policy renewal,Insurance
+Family health policy payment,Insurance
+Life cover installment,Insurance
+Travel insurance premium,Insurance
+Insurance subscription payment,Insurance
+Premium payment receipt,Insurance
+Haircut at salon,Personal Care
+Beauty salon appointment,Personal Care
+Purchased skincare products,Personal Care
+Hair spa payment,Personal Care
+Personal grooming expense,Personal Care
+Barber shop payment,Personal Care
+Salon haircut charges,Personal Care
+Facial treatment expense,Personal Care
+Spa appointment booking,Personal Care
+Beauty product purchase,Personal Care
+Hair treatment charges,Personal Care
+Manicure salon payment,Personal Care
+Pedicure appointment fee,Personal Care
+Personal hygiene products,Personal Care
+Grooming kit purchase,Personal Care
+Cosmetic skincare payment,Personal Care
+Salon service UPI payment,Personal Care
+Body care product purchase,Personal Care
+Hair styling charges,Personal Care
+Personal wellness grooming,Personal Care
+Netflix monthly subscription,Subscriptions
+Amazon Prime subscription,Subscriptions
+Cloud storage subscription,Subscriptions
+Software monthly subscription,Subscriptions
+Annual domain renewal,Subscriptions
+Spotify premium payment,Subscriptions
+YouTube premium renewal,Subscriptions
+Google One storage plan,Subscriptions
+Microsoft 365 subscription,Subscriptions
+Adobe software renewal,Subscriptions
+Monthly OTT subscription,Subscriptions
+Website hosting renewal,Subscriptions
+App subscription payment,Subscriptions
+GitHub premium subscription,Subscriptions
+Canva Pro monthly plan,Subscriptions
+Online service membership,Subscriptions
+Annual software license,Subscriptions
+Cloud computing subscription,Subscriptions
+Digital platform membership,Subscriptions
+Recurring subscription charge,Subscriptions
+Miscellaneous household expense,Other
+Unexpected personal expense,Other
+General service payment,Other
+Uncategorized transaction,Other
+Other miscellaneous payment,Other
+Household repair expense,Other
+Gift purchase payment,Other
+Charity donation transfer,Other
+Personal miscellaneous spending,Other
+General purpose UPI payment,Other
+Unexpected service charges,Other
+Small miscellaneous purchase,Other
+Unspecified merchant payment,Other
+General household payment,Other
+Personal expense transfer,Other
+One time miscellaneous charge,Other
+Unknown purchase payment,Other
+Miscellaneous UPI transaction,Other
+Other service expense,Other
+Unclassified personal payment,Other

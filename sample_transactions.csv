@@ -1,0 +1,6 @@
+title,amount,type,category,description,date,paymentMethod
+Grocery Shopping,1500,expense,Food,Monthly groceries,2026-11-08,upi
+Monthly Salary,45000,income,Salary,November salary,2026-11-01,bank_transfer
+Electricity Bill,1200,expense,Utilities,Electricity payment,2026-11-05,upi
+Restaurant Dinner,850,expense,Food,Dinner with friends,2026-11-07,card
+Freelance Project,8000,income,Freelance,Website development,2026-11-06,bank_transfer

@@ -1,0 +1,43 @@
+﻿# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Node dependencies
+node_modules/
+**/node_modules/
+
+# Python virtual environments
+venv/
+.venv/
+**/venv/
+**/.venv/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Build output
+dist/
+**/dist/
+build/
+**/build/
+
+# Logs and temporary files
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Testing and coverage
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Local generated inventory
+project_file_map.txt
